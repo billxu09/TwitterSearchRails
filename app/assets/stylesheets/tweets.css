@@ -1,0 +1,18 @@
+*{font-size:1em; margin:0; padding:0}
+html{background:none repeat scroll 0 0 #796459; color:#FFF}
+body{background:none repeat scroll 0 0 #666666; border-top:1px solid #0F6D9A; color:#444444; font-family:"Lucida Grande","Verdana","Arial","Bitstream Vera Sans",sans-serif; padding:0; text-align:center}
+a, a:visited{color:#7C8F59; font-weight:bold; text-decoration:none}
+ol li{list-style:decimal inside none; padding:10px 0 10px 20px}
+a:hover{color:#59C8EF}
+
+#container{margin:0 auto; width:900px; overflow:hidden; padding:0 0 28px; position:relative; text-align:left; box-shadow: 0px 0px 0px}
+ul li{list-style:none; padding:10px 0; float:left; clear:both; background:#BFCCA9; border-bottom:1px solid #7F6B5F}
+ul li.odd{background:#B3BF9F}
+a.username, a.username:visited{width:155px; display:block; float:left; clear:left; color:#3299BB}
+a.username:hover, a.username:active{color:#4FD1FF; text-decoration:underline}
+.tweet_container{float:left}
+.tweet_user_area{float:left; padding-left:5px;}
+.tweet_user_pic{float:left; padding-top: 2px;}
+.tweet_text_area{float:left; padding-left:10px; width:685px; }
+.tweet_text{float:left;}
+.tweet_created_at{clear:left; color:#9E9E9E;  float:left;  font-size:12px}
