@@ -14,7 +14,7 @@ gem 'rails', '3.1.0'
 
 gem "thin"
 
-gem "heroku"
+# gem "heroku"
 
 gem 'twitter'
 
